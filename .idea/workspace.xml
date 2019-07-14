@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44dbbe44-bf2d-4e4a-9135-e0b6d9e41117" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bai tap ss9/Validate account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai tap ss9/Validate email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai tap ss9/Validate số điện thoại.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai tap ss9/Validate tên của lớp học.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc hanh ss7/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc hanh ss9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc hanh ss9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc hanh ss9/.idea/thuc hanh ss9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc hanh ss9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc hanh ss9/Kiểm tra Mã quốc gia nước Mỹ.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc hanh ss9/Kiểm tra ký tự đầu tiên của chuỗi có phải là chữ hoa không.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BP_session_01_thuc_hanh_javasrip" beforeDir="false" afterPath="$PROJECT_DIR$/../BP_session_01_thuc_hanh_javasrip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thuc hanh session 2" beforeDir="false" afterPath="$PROJECT_DIR$/../Thuc hanh session 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai tap ss2" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap ss2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai tap ss2 bai 2" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap ss2 bai 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai tap ss2 bai 3" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap ss2 bai 3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai tap ss3" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap ss3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai tap ss4" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap ss4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai tap ss5" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap ss5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hien thi dau ra" beforeDir="false" afterPath="$PROJECT_DIR$/../hien thi dau ra" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiem tra giua module" beforeDir="false" afterPath="$PROJECT_DIR$/../kiem tra giua module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiem tra oop" beforeDir="false" afterPath="$PROJECT_DIR$/../kiem tra oop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuc hanh ss3" beforeDir="false" afterPath="$PROJECT_DIR$/../thuc hanh ss3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuc hanh ss4" beforeDir="false" afterPath="$PROJECT_DIR$/../thuc hanh ss4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuc hanh ss5" beforeDir="false" afterPath="$PROJECT_DIR$/../thuc hanh ss5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuc hanh ss7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap ss9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuc hanh ss7/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap ss9/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuc hanh ss7/.idea/thuc hanh ss7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap ss9/.idea/bai tap ss9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuc hanh ss7/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap ss9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuc hanh ss7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thuc hanh ss7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuc hanh ss7/[Thực hành] Funny circles.html" beforeDir="false" afterPath="$PROJECT_DIR$/../thuc hanh ss7/bai 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuc hanh ss7/[Thực hành] Xây dựng lớp Date.html" beforeDir="false" afterPath="$PROJECT_DIR$/../thuc hanh ss7/bai 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuc hanh ss7/[Thực hành] Xây dựng lớp Hình Tròn.html" beforeDir="false" afterPath="$PROJECT_DIR$/../thuc hanh ss7/bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai 1.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bai 1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bai 1.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="thuc hanh ss8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thuc hanh ss8" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="Project Files" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44dbbe44-bf2d-4e4a-9135-e0b6d9e41117" name="Default Changelist" comment="" />
+      <created>1562769442083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562769442083</updated>
+      <workItem from="1562769443186" duration="19000" />
+      <workItem from="1562769678798" duration="6000" />
+      <workItem from="1562770151366" duration="150000" />
+      <workItem from="1562770736829" duration="499000" />
+      <workItem from="1562771427229" duration="555000" />
+      <workItem from="1562772628638" duration="266000" />
+      <workItem from="1562772917320" duration="106000" />
+      <workItem from="1562903260999" duration="813000" />
+      <workItem from="1563085259420" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2513000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="20" width="1400" height="784" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944974" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297546" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297546" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../kiem tra oop/bai 3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-824" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai 1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
